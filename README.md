@@ -5,6 +5,10 @@ All Nuclei Templates Collection By A3g00n You can find bugs and vulnerability on
 Use Nuclei Version 3.2.5
 
 
+
+Total Templates 205432
+
+
 -------------------------------------------------------------------------------------------------------------------
 
 
