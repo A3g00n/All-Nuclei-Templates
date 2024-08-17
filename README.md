@@ -12,7 +12,7 @@ Command
 
 nuclei -l list.txt -t Attack -s high,medium,critical -o output.txt
 
-OR![Desktop Screenshot 2024 08 17 - 13 34 15 37](https://github.com/user-attachments/assets/2525ad20-a794-4ac8-8400-d7113e86342e)
+OR
 
 
 nuclei -l list.txt -t attack -s high,medium,critical -c 100 -bs 100 -o output.txt
@@ -36,6 +36,12 @@ My Social Media
 Facebook: https://www.facebook.com/cyberkurdo
 Telegram: https://t.me/A3g00n
 Youtube: https://www.youtube.com/@A3g0nn
+
+---------------------------------------------------------------------------------------------------------------
+
+Screenshot
+![Desktop Screenshot 2024 08 17 - 13 34 15 37](https://github.com/user-attachments/assets/9cac1521-7b76-4fa6-a3f1-e6428c6e9234)
+
 
 
 
