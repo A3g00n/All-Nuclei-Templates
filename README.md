@@ -11,7 +11,10 @@ Use Nuclei Version 3.2.5
 Command 
 
 nuclei -l list.txt -t Attack -s high,medium,critical -o output.txt
----------------------------------------------------OR-----------------------------------------------------------------
+
+OR![Desktop Screenshot 2024 08 17 - 13 34 15 37](https://github.com/user-attachments/assets/2525ad20-a794-4ac8-8400-d7113e86342e)
+
+
 nuclei -l list.txt -t attack -s high,medium,critical -c 100 -bs 100 -o output.txt
 
 Single scan
