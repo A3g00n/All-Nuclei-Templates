@@ -11,9 +11,7 @@ Use Nuclei Version 3.2.5
 Command 
 
 nuclei -l list.txt -t Attack -s high,medium,critical -o output.txt
-.
-OR
-.
+OR-----------------------------------------------------------------
 nuclei -l list.txt -t attack -s high,medium,critical -c 100 -bs 100 -o output.txt
 
 Single scan
